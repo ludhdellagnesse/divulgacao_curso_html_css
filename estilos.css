@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Rokkitt:wght@100;400&display=swap');
+
+*{
+    margin: 0px;    
+}
+
+.pagina{
+    background: url("images/image-5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.curso{
+    
+    font-family: Rokkitt ;
+    font-size: 30px;
+    text-align: center;
+}
+.nome-curso{
+    background-color: whitesmoke;
+    border: tomato solid;
+    font-family: Abril Fatface;
+    font-size: 80px;
+    text-align: center;
+    
+}
+.descricao{
+    font-family: Rokkitt ;
+    font-size: 30px;
+    text-align: center;
+}
+.inicio{
+    font-family: Rokkitt ;
+    font-size: 35px;
+    text-align: center;
+}
+.link{
+    font-family: Rokkitt ;
+    font-size: 35px;
+    text-align: center;
+}
